@@ -1,0 +1,16 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    background-color:lightblue;
+}
+#box {
+    border: 1px solid #ccc;
+    padding: 15px;
+    width: 300px;
+    background-color: dimgray;
+    margin-top: 10px;
+}
+button {
+    padding: 8px 12px;
+    margin-top: 10px;
+}
